@@ -17,7 +17,7 @@ type: page
   
 * School of Cyber Engineering.2019/09-now
  
- Xidian University, Xi’an, China.
+  Xidian University, Xi’an, China.
 
 
 ## 联系方式
