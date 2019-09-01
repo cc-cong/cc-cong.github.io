@@ -42,6 +42,7 @@ tags:
 因此开始有必要整理记录.
 
 但是因为没必要像写paper那样规范使用latex, 因此就选择了Markdown.
+```
 
 ## Tools
 Windows - [MarkdownPad](http://www.markdownpad.com/)
