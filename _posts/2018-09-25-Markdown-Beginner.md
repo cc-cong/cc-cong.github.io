@@ -16,6 +16,12 @@ tags:
 因此开始有必要整理记录.
 
 但是因为没必要像写paper那样规范使用latex, 因此就选择了Markdown.
+
+
+
+
+
+
 <!-- MarkdownTOC -->
 
 - [前言](#%E5%89%8D%E8%A8%80)
@@ -41,13 +47,6 @@ tags:
         - [斜体](#%E6%96%9C%E4%BD%93)
         - [字体, 字号, 和颜色](#%E5%AD%97%E4%BD%93-%E5%AD%97%E5%8F%B7-%E5%92%8C%E9%A2%9C%E8%89%B2)
 - [Reference](#reference)
-
-
-
-
-
-
-
 
 ## Tools
 Windows - [MarkdownPad](http://www.markdownpad.com/)
