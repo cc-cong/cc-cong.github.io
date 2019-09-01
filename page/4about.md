@@ -11,6 +11,11 @@ type: page
 
 ## Education
 
+* Mathematics and applied mathematics.2015/09-2019/06
+  Xidian University, Xi’an, China.
+  
+* School of Cyber Engineering.2019/09-now
+  Xidian University, Xi’an, China.
 
 
 ## 联系方式
