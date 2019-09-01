@@ -8,6 +8,14 @@ catalog: true
 tags:
     - Markdown
 ---
+<!-- /MarkdownTOC -->
+
+# 前言
+阶段性总结有利于精确自己的目标, 以及为后续的想法开辟空间.
+
+因此开始有必要整理记录.
+
+但是因为没必要像写paper那样规范使用latex, 因此就选择了Markdown.
 <!-- MarkdownTOC -->
 
 - [前言](#%E5%89%8D%E8%A8%80)
@@ -34,14 +42,7 @@ tags:
         - [字体, 字号, 和颜色](#%E5%AD%97%E4%BD%93-%E5%AD%97%E5%8F%B7-%E5%92%8C%E9%A2%9C%E8%89%B2)
 - [Reference](#reference)
 
-<!-- /MarkdownTOC -->
 
-# 前言
-阶段性总结有利于精确自己的目标, 以及为后续的想法开辟空间.
-
-因此开始有必要整理记录.
-
-但是因为没必要像写paper那样规范使用latex, 因此就选择了Markdown.
 
 
 
